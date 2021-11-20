@@ -1,7 +1,6 @@
 <%@ page import="com.example.FireInspectionService.model.Inspection" %>
 <%@ page import="java.util.List" %>
 <%@ page import="com.example.FireInspectionService.database.InspectionDaoImplementation" %>
-<%@ page import="java.sql.SQLException" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
@@ -19,7 +18,7 @@
 
         <div class="pl-4">
             <a class="text-gray-900 text-base no-underline hover:no-underline font-extrabold text-xl" href="#">
-                Verwaltung für Feuerpolizeiliche Beschau
+                Verwaltung für Feuerbeschau
             </a>
         </div>
 
@@ -94,14 +93,8 @@
                             </thead>
                             <tbody class="bg-white">
                             <%
-                                List<Inspection> list = null;
-                                try {
-                                    list = InspectionDaoImplementation.getInspections();
-                                } catch (SQLException throwables) {
-                                    throwables.printStackTrace();
-                                }
-                                if(list != null && (!list.isEmpty())) {
-                                    for (Inspection inspection: list) {
+                                List<Inspection> list = InspectionDaoImplementation.getInspections();
+                                for (Inspection inspection: list) {
                             %>
                             <tr>
                                 <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
@@ -173,11 +166,6 @@
                                     </a>
                                 </td>
                             </tr>
-                            <%
-                                 }
-                                } else {
-                            %>
-                            <div>Es wurden noch keine Termine hinzugefügt</div>
                             <%
                                 }
                             %>
