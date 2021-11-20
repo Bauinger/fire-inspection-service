@@ -9,30 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23958f18-7c66-43e4-a6be-089de589c006" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireInspectionService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/$PROJECT_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/artifacts/FireInspectionService_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/.idea/artifacts/FireInspectionService_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/.idea/webContexts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/FireInspectionService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/FireInspectionService.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/src/main/java/com/example/FireInspectionService/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FireInspectionService/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FireInspectionService/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="23958f18-7c66-43e4-a6be-089de589c006" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637089045217</updated>
-      <workItem from="1637089048249" duration="8094000" />
+      <workItem from="1637089048249" duration="8433000" />
     </task>
     <servers />
   </component>
